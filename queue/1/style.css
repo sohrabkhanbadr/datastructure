@@ -1,0 +1,11 @@
+#queue {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#queue div {
+  margin: 0 5px;
+  padding: 10px;
+  border: 1px solid black;
+}
